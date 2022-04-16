@@ -3,10 +3,12 @@
 ### I am a Student and a Developer
 - I'm studying Computer Science Engineering in American International University-Bangladesh(AIUB)
 - I'm currently learning
-    - Computer Vision and Pattern Recognization
-    - Data Mining and Data Warehouse
-    - Web Automation and testing
+    *- Computer Vision and Pattern Recognization
+    *- Data Mining and Data Warehouse
+    *- Web Automation and testing
 - I'm looking to collaborate and learn together with other developer
+
+<br/>
 
 [![Facebook](./img/icons8-facebook-50-black.svg)](https://www.facebook.com/SadmanWHOssain#gh-light-mode-only)
 [![Facebook](./img/icons8-facebook-50-white.svg)](https://www.facebook.com/SadmanWHOssain#gh-dark-mode-only)
@@ -20,7 +22,7 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadmanwhossain&show_icons=true&theme=onedark)](https://github.com/sadmanwhossain/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadmanwhossain&show_icons=true&theme=dark)](https://github.com/sadmanwhossain/github-readme-stats)
 
 [Facebook]: https://www.facebook.com/SadmanWHOssain
 [Twitter]: https://twitter.com/SadmanWHOssain
