@@ -1,6 +1,5 @@
-## Hello there visitor hope you are fine, I am Md. Sadman Hossain
+# Hello there visitor hope you are fine, I am Md. Sadman Hossain
 <br/>
-
 ### I am a Student and a Developer
 - I'm studying Computer Science Engineering in American International University-Bangladesh(AIUB)
 - I'm currently learning
@@ -21,7 +20,7 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadmanwhossain)](https://github.com/sadmanwhossain/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadmanwhossain&show_icons=true&theme=radical)](https://github.com/sadmanwhossain/github-readme-stats)
 
 [Facebook]: https://www.facebook.com/SadmanWHOssain
 [Twitter]: https://twitter.com/SadmanWHOssain
