@@ -1,11 +1,13 @@
 # Hello there visitor hope you are fine, I am Md. Sadman Hossain
+
 <br/>
+
 ### I am a Student and a Developer
 - I'm studying Computer Science Engineering in American International University-Bangladesh(AIUB)
 - I'm currently learning
-    *- Computer Vision and Pattern Recognization
-    *- Data Mining and Data Warehouse
-    *- Web Automation and testing
+    - Computer Vision and Pattern Recognization
+    - Data Mining and Data Warehouse
+    - Web Automation and testing
 - I'm looking to collaborate and learn together with other developer
 
 <br/>
