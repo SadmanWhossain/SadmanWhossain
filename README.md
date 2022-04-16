@@ -12,16 +12,10 @@
 
 [![Facebook](./img/icons8-facebook-50-black.svg)](https://www.facebook.com/SadmanWHOssain#gh-light-mode-only)
 [![Facebook](./img/icons8-facebook-50-white.svg)](https://www.facebook.com/SadmanWHOssain#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 [![Twitter](./img/icons8-twitter-50-black.svg](https://twitter.com/SadmanWHOssain#gh-light-mode-only)
 [![Twitter](./img/icons8-twitter-50-white.svg)](https://twitter.com/SadmanWHOssain#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 [![LinkedIn](./img/icons8-linkedin-50-black.svg)](https://www.linkedin.com/in/sadman-hossain-71ba3517b#gh-light-mode-only)
 [![LinkedIn](./img/icons8-linkedin-50-white.svg)](https://www.linkedin.com/in/sadman-hossain-71ba3517b#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 [![Instagram](./img/icons8-instagram-50-black.svg)](https://www.instagram.com/sadmanwhossain#gh-light-mode-only)
 [![Instagram](./img/icons8-instagram-50-white.svg)](https://www.instagram.com/sadmanwhossain#gh-dark-mode-only)
 
