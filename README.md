@@ -14,7 +14,7 @@
 [![Facebook](./img/icons8-facebook-50-white.svg)](https://www.facebook.com/SadmanWHOssain#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/SadmanWHOssain#gh-light-mode-only)
+[![Twitter](./img/icons8-facebook-50-black.svg)](https://twitter.com/SadmanWHOssain#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/SadmanWHOssain#gh-dark-mode-only)
 &nbsp;&nbsp;
 
