@@ -18,6 +18,11 @@
 [![Instagram](./img/icons8-instagram-50-black.svg)](https://www.instagram.com/sadmanwhossain#gh-light-mode-only)
 [![Instagram](./img/icons8-instagram-50-white.svg)](https://www.instagram.com/sadmanwhossain#gh-dark-mode-only)
 
+<br/>
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadmanwhossain)](https://github.com/sadmanwhossain/github-readme-stats)
+
 [Facebook]: https://www.facebook.com/SadmanWHOssain
 [Twitter]: https://twitter.com/SadmanWHOssain
 [Instagram]: https://www.instagram.com/sadmanwhossain
