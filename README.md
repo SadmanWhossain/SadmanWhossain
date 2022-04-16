@@ -14,16 +14,16 @@
 [![Facebook](./img/icons8-facebook-50-white.svg)](https://www.facebook.com/SadmanWHOssain#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[![Twitter](./img/icons8-facebook-50-black.svg)](https://twitter.com/SadmanWHOssain#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/SadmanWHOssain#gh-dark-mode-only)
+[![Twitter](./img/icons8-twitter-50-black.svg](https://twitter.com/SadmanWHOssain#gh-light-mode-only)
+[![Twitter](./img/icons8-twitter-50-white.svg)](https://twitter.com/SadmanWHOssain#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/sadman-hossain-71ba3517b#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sadman-hossain-71ba3517b#gh-dark-mode-only)
+[![LinkedIn](./img/icons8-linkedin-50-black.svg)](https://www.linkedin.com/in/sadman-hossain-71ba3517b#gh-light-mode-only)
+[![LinkedIn](./img/icons8-linkedin-50-white.svg)](https://www.linkedin.com/in/sadman-hossain-71ba3517b#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/sadmanwhossain#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/sadmanwhossain#gh-dark-mode-only)
+[![Instagram](./img/icons8-instagram-50-black.svg)](https://www.instagram.com/sadmanwhossain#gh-light-mode-only)
+[![Instagram](./img/icons8-instagram-50-white.svg)](https://www.instagram.com/sadmanwhossain#gh-dark-mode-only)
 
 [Facebook]: https://www.facebook.com/SadmanWHOssain
 [Twitter]: https://twitter.com/SadmanWHOssain
